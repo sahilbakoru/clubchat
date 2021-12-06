@@ -2,7 +2,7 @@
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
 
 
-#Go to LINK:- https://hidden-mountain-23602.herokuapp.com/
+# Go to LINK:- https://hidden-mountain-23602.herokuapp.com/
 ## Tell your friend to go to the same link and join the same room 👻 
 Now enjoy real time serverless web chating 😀 ✌🏻 
 

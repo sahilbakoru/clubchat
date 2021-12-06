@@ -1,6 +1,12 @@
 # ChatCord App
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
-[![Run on Repl.it](https://repl.it/badge/github/bradtraversy/chatcord)](https://repl.it/github/bradtraversy/chatcord)
+
+
+#Go to LINK:- https://hidden-mountain-23602.herokuapp.com/
+## Tell your friend to go to the same link and join the same room 👻 
+Now enjoy real time serverless web chating 😀 ✌🏻 
+
+
 ## Usage
 ```
 npm install
